@@ -1,4 +1,3 @@
-- 👋 hola, me presento soy carpincho gaucho. recien voy empezando en los plugins y mods de minecraft asi que tenganme pasiensia
 - 👀 me gusta observar trabajos de otras personas para guiarme y saber bien que estoy haciendo 
 - 🌱 soy un capybara, como plantas
 - 💞️ amo casados con hijos una sitcom de argentina iniciada en el 2005 y termino en 2006
