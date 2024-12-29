@@ -6,7 +6,7 @@
 
 I am a capybara who likes programming in python, JS, java, html and css
 
-## My Skills Include
+ My Skills Include
 
 <h4> Languages </h4>
 <span> 
