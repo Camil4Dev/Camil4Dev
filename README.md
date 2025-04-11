@@ -5,6 +5,7 @@
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
 
 I am a capybara who likes programming in python, JS, java, html and css
+working at ScreamingLAB and Hexa Creators
 
  My Skills Include
 
