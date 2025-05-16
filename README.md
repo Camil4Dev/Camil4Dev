@@ -8,7 +8,7 @@ I am a capybara who likes programming in python, JS and java
 
 <span> 
  
-working at ScreamingLAB and Hexa Creators
+working at ScreamingLAB 
 
 </span>
 
