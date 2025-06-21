@@ -1,8 +1,8 @@
-<h1 align="center"><b>Hi , I'm carpincho Gaucho </b><img src="https://tenor.com/es/view/frieren-waving-stark-waving-sousou-no-frieren-waving-waving-hello-fern-gif-11404743612620961521" width="35"></h1>
+<h1 align="center"><b>Hi , I'm carpincho Gaucho </b><img src="https://media1.tenor.com/m/nkXJ5AitdvEAAAAd/frieren-waving-stark-waving.gif" width="35"></h1>
 <!--  -->
 
 
-<img src="https://tenor.com/es/view/frieren-anime-frieren-elf-awkward-sousou-no-frieren-gif-11976038336936474804" width="30px">&nbsp;***About me***
+<img src="https://media1.tenor.com/m/pjNvammO-LQAAAAd/frieren-anime-frieren-elf.gif" width="30px">&nbsp;***About me***
 
 I am a capybara who likes programming in python, JS, Java, css And HTML
 
