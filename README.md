@@ -1,12 +1,12 @@
-<h1 align="center"><b>Hi , I'm carpincho Gaucho </b><img src="https://media1.tenor.com/m/nkXJ5AitdvEAAAAd/frieren-waving-stark-waving.gif" width="35"></h1>
+<h1 align="center"><b>Hi , I'm camila </b><img src="https://media1.tenor.com/m/nkXJ5AitdvEAAAAd/frieren-waving-stark-waving.gif" width="35"></h1>
 <!--  -->
 
 
 <img src="https://media1.tenor.com/m/pjNvammO-LQAAAAd/frieren-anime-frieren-elf.gif" width="30px">&nbsp;***About me***
 
-https://carpinchogaucho.github.io/carpisnetta.github.io
 
-I am a capybara who likes programming in python, JS, Java, css And HTML
+My name is Camila and my favorite language is Java.
+
 
 <span> 
  
