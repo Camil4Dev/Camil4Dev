@@ -42,7 +42,7 @@ working at ScreamingLAB
 
 ## Check out my Social Media
 
-<a href= "https://x.com/dev_carpincho">
+<a href= "https://x.com/CamilaDev_">
     <img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white">
 </a>
 
