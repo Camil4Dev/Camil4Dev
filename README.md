@@ -28,7 +28,7 @@ and turning ideas into something real — one spell (or line of code) at a time 
 ### 💬 Discord Presence
 <p align="center">
   <a href="https://discord.com/users/932721517995888650">
-    <a href="https://discord.com/users/932721517995888650"><img src="https://lanyard.cnrad.dev/api/932721517995888650" /></a>
+    <a href="https://discord.com/users/932721517995888650"><img src="https://lanyard.cnrad.dev/api/932721517995888650?showDisplayName=true&theme=dark&hideActivity=true" /></a>
   </a>
 </p>
 
