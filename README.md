@@ -32,6 +32,33 @@ and turning ideas into something real — one spell (or line of code) at a time 
   </a>
 </p>
 
+---
+
+### 👀 Profile Views
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Camil4Dev&color=CF0234&style=for-the-badge" />
+</p>
+
+---
+
+<h2 align="center">📊 GitHub Stats</h2>
+
+<p align="center">
+  <img height="50%" width="auto"
+       src="https://github-readme-stats.vercel.app/api?username=Camil4Dev&show_icons=true&count_private=true&theme=material-palenight&hide_border=true&hide=issues,contribs&bg_color=00000000" />
+</p>
+
+<p align="center">
+  <img height="50%" width="auto"
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Camil4Dev&layout=compact&hide_border=true&theme=material-palenight&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php&exclude_repo=Pacman-AI" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Camil4Dev&theme=material-palenight&hide_border=true&background=FFFFFF00" />
+</p>
+
+---
+
 ### ✨ My Skills
 
 #### 🌸 Languages
