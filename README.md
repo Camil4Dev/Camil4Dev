@@ -43,17 +43,11 @@ and turning ideas into something real — one spell (or line of code) at a time 
 </p>
 
 <p align="center">
-  <img height="45%"
-       src="https://github-readme-stats.vercel.app/api?username=Camil4Dev&show_icons=true&count_private=true&theme=material-palenight&hide_border=true&hide=issues,contribs&bg_color=00000000" />
+  <img src="https://readme-stats-two-opal-48.vercel.app/api?username=camil4dev&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&border_color=30363d"/>
 </p>
 
 <p align="center">
-  <img height="45%"
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Camil4Dev&layout=compact&hide_border=true&theme=material-palenight&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Camil4Dev&theme=material-palenight&hide_border=true&background=FFFFFF00" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Camil4Dev&theme=tokyo-night&hide_border=true" />
 </p>
 
 ---
