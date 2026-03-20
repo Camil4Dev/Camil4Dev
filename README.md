@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <i>☕ Java Developer ・ 💫 Magic Coder ・ 🪄 Turning code into art</i>
+  <i>☕ Java Developer ・ Minecraft Plugins & Mods ・ Crafted Experiences</i>
 </p>
 
 ---
@@ -19,24 +19,68 @@
        style="margin-right: 12px; border-radius: 10px;">
 </p>
 
-Hey there! I'm **Camila**, a passionate developer who finds beauty in clean, elegant code.  
-My favorite language is **Java**, and I’m currently working at **ScreamingLAB**,  
-where I build creative experiences full of logic, design, and a hint of magic ✨  
-
-I love exploring new technologies, contributing to inspiring projects,  
-and turning ideas into something real — one spell (or line of code) at a time 🪶
+I'm **Camila**, a developer focused on **Paper plugins**, **Fabric mods**, and
+**advanced server systems**. I work with **Mixin**, **GeckoLib**, custom entities,
+packets, dynamic worlds, and complex minigame mechanics. I'm currently building
+at **ScreamingLAB** and collaborating on private projects.
 
 <br clear="left"/>
 
 ---
 
-## 💬 Discord & GitHub
+## ✨ Specialties
 
 <p align="center">
+  <img src="https://skillicons.dev/icons?i=java&theme=dark" />
+</p>
+
+<p align="center">
+  <i>Plugins, mods, events, and systems for competitive communities</i>
+</p>
+
+<div align="center">
+
+| Area | Focus |
+| --- | --- |
+| Paper | Custom systems, minigames, advanced mechanics |
+| Fabric | Client/server content with modern integrations |
+| Systems & Events | Progression, economy, event architectures |
+| Hytale | Experimental modding and tools |
+
+</div>
+
+---
+
+## 🧰 Favorite Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,mysql,sqlite,git,github,idea,vscode&theme=dark" />
+</p>
+
+---
+
+## 💬 Contact & Availability
+
+- **Available for new projects**. I reply within 24 to 48 hours with scope,
+  timeline, and an initial budget.
+- **Schedule**: Monday to Friday 15:00 to 23:00 (UTC-3). Saturdays: revisions and support.
+- **Email**: c.carpincho.gaucho@gmail.com
+
+<p align="center">
+  <a href="https://camila-portfolio.pages.dev">
+    <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white">
+  </a>
   <a href="https://discord.com/users/932721517995888650">
-    <img src="https://lanyard.cnrad.dev/api/932721517995888650?showDisplayName=true&theme=dark&hideActivity=true" />
+    <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white">
+  </a>
+  <a href="https://x.com/CamilaDev_">
+    <img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white">
   </a>
 </p>
+
+---
+
+## 📊 GitHub
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Camil4Dev&color=CF0234&style=for-the-badge" />
@@ -52,38 +96,14 @@ and turning ideas into something real — one spell (or line of code) at a time 
 
 ---
 
-## ✨ Skills & Tools
-
-### 🌸 Languages
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,js,python,html,css&theme=dark" />
-</p>
-
-### 🪄 Tools & Technologies
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,nodejs,idea,vscode,discord&theme=dark" />
-</p>
-
----
-
-## 🕊️ Connect With Me
-
-<p align="center">
-  <a href="https://x.com/CamilaDev_">
-    <img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white">
-  </a>
-</p>
-
----
-
 <p align="center">
   <img src="https://media1.tenor.com/m/1e0WLUgOStQAAAAd/frieren-frieren-beyond-journey-s-end.gif" width="320">
 </p>
 
 <p align="center">
-  <i>“Magic and code aren’t so different — both shape the invisible into something beautiful.” 🩵</i>
+  <i>"Magic and code are not so different: both shape the unseen into something beautiful." 🩵</i>
 </p>
 
 <p align="center">
-  <sub>🧙‍♀️ Made with love, Java, and a little bit of Frieren’s magic ✨</sub>
+  <sub>🧙‍♀️ Made with love, Java, and a little Frieren magic ✨</sub>
 </p>
